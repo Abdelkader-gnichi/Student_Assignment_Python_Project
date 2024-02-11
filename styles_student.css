@@ -1,0 +1,43 @@
+/* styles_student.css */
+
+/* Body */
+
+
+/* Labels */
+QLabel {
+    color: #4CAF50; /* Green color for labels */
+}
+
+/* Line Edit */
+QLineEdit {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+/* Buttons */
+QPushButton {
+    padding: 8px;
+    background-color: #4CAF50; /* Green color for buttons */
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+QPushButton:hover {
+    background-color: #45a049; /* Darker green color on hover */
+}
+
+
+
+
+/* Labels */
+QLabel {
+    color: #000; /* Black color for labels */
+}
+
+
+QComboBox:hover {
+    background-color: #45a049; /* Darker green color on hover */
+}
+
